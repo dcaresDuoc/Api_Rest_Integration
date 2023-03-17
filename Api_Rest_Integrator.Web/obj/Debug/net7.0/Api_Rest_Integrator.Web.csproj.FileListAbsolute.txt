@@ -1,0 +1,154 @@
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.exe
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.deps.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.runtimeconfig.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Infrastructure.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Services.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Services.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Infrastructure.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.AssemblyReference.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.AssemblyInfoInputs.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.AssemblyInfo.cs
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.CoreCompileInputs.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.Api_Rest_Integrator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Api_Rest_Integrator.Web.props
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api_Rest_Integrator.Web.props
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api_Rest_Integrator.Web.props
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\scopedcss\bundle\Api_Rest_Integrator.Web.styles.css
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.CopyComplete
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\refint\Api_Rest_Integrator.Web.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.genruntimeconfig.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\obj\Debug\net7.0\ref\Api_Rest_Integrator.Web.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\appsettings.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.exe
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.deps.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.runtimeconfig.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Web.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Azure.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Azure.Identity.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Memory.Data.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Infrastructure.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Services.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Services.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\bin\Debug\net7.0\Api_Rest_Integrator.Infrastructure.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.AssemblyReference.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.AssemblyInfoInputs.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.AssemblyInfo.cs
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.CoreCompileInputs.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.Api_Rest_Integrator.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Api_Rest_Integrator.Web.props
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Api_Rest_Integrator.Web.props
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Api_Rest_Integrator.Web.props
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\scopedcss\bundle\Api_Rest_Integrator.Web.styles.css
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.csproj.CopyComplete
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\refint\Api_Rest_Integrator.Web.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\Api_Rest_Integrator.Web.genruntimeconfig.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Web\obj\Debug\net7.0\ref\Api_Rest_Integrator.Web.dll

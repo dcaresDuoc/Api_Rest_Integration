@@ -1,0 +1,24 @@
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.deps.json
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.csproj.AssemblyReference.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.AssemblyInfoInputs.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.AssemblyInfo.cs
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.csproj.CoreCompileInputs.cache
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\refint\Api_Rest_Integrator.Core.dll
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\Users\dcares\Desktop\DUOC\IntegracionPlataformas_ ASY5131-007V\Api_Rest_Integrator\Api_Rest_Integrator.Core\obj\Debug\net7.0\ref\Api_Rest_Integrator.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.deps.json
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\bin\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.csproj.AssemblyReference.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.AssemblyInfoInputs.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.AssemblyInfo.cs
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.csproj.CoreCompileInputs.cache
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\refint\Api_Rest_Integrator.Core.dll
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\Api_Rest_Integrator.Core.pdb
+C:\ProyectosGit\Api_Rest_Integration\Api_Rest_Integrator.Core\obj\Debug\net7.0\ref\Api_Rest_Integrator.Core.dll

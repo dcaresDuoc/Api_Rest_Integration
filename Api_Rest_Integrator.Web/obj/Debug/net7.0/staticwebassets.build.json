@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N6OyfcJEdXoz7LETRSpz42OG9ycJvL5oWNCKhCFrxBM=",
+  "Source": "Api_Rest_Integrator.Web",
+  "BasePath": "_content/Api_Rest_Integrator.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
